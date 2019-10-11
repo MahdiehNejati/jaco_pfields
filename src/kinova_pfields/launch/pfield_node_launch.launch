@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+
+	<node pkg="kinova_pfields" output="screen" type="visualize_objects.py" name="pfield_visualization_node"/>
+
+	<node pkg="kinova_pfields" output="screen" type="pfield_planner.py" name="pfield_planner"/>
+
+	<!-- <node pkg="kinova_pfields" output="screen" type="obstacle_server_node.py" name="obstacle_server_node"/> -->
+
+</launch>

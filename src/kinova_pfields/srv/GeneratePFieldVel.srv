@@ -1,0 +1,4 @@
+ObjectDescription goal
+---
+geometry_msgs/Twist robot_vel
+bool goal_reached

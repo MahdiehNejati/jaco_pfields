@@ -1,0 +1,4 @@
+ObjectDescription[] objects
+int32 object_index
+---
+bool status

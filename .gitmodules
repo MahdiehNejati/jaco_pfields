@@ -1,0 +1,3 @@
+[submodule "src/jaco_base"]
+	path = src/jaco_base
+	url = https://github.com/argallab/jaco_base.git
